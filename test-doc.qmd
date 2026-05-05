@@ -3,3 +3,9 @@ title: "test doc"
 author: "An Bui, Abigail Youngblood"
 format: pdf
 ---
+
+# 1. Set up
+
+## Packages
+
+## Data
